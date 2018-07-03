@@ -3,6 +3,9 @@ Three frameworks developed as part of my Master's thesis; each uses knowledge of
 
 Designed to be compatible with the MOA (Massive Online Analysis) 17.06 release. MOA [1] is a Java-based, open source framework for data stream mining. More details can be found on its website (https://moa.cms.waikato.ac.nz/) and it can be found on GitHub as well (https://github.com/waikato/moa).
 
+This code has a DOI: [![DOI](https://zenodo.org/badge/139605381.svg)](https://zenodo.org/badge/latestdoi/139605381)
+
+
 FILES INCLUDED
 
 classifiers/oneclass
@@ -19,7 +22,7 @@ core
 
 [1] **FixedLengthList** is a utility class that extends ArrayList to produce a list that is restricted to an argument, fixed length; and
 
-[2] **SMOTE** is an implementation of Chawla et al.'s Synthetic Minority Oversampling Technique [].
+[2] **SMOTE** is an implementation of Chawla et al.'s Synthetic Minority Oversampling Technique [2].
 
 REFERENCES
 
